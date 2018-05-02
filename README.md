@@ -1,1 +1,0 @@
-# tracula_cortical_thickness
